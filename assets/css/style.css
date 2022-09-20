@@ -1,0 +1,66 @@
+/*Fuentes Roboto*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500&display=swap');
+
+.body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo-white {
+    height: 2rem;
+}
+
+.card-title1{
+    font-weight: 300;
+    color:#212529 ;
+}
+
+.card-text{
+    font-weight: 300;
+    color:#707070 ;
+}
+
+.card-direccion{
+    font-weight: 300;
+    font-size: 13px;
+    color:#707070 ;
+}
+
+.lugar-icono{
+    font-size: 13px;
+    color:#707070 ;
+}
+
+.menor-valor {
+    font-weight: 300;
+    font-size: 15px;
+    color:#707070 ;
+}
+
+.mayor-valor{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.card-container {
+    padding: 40px 40px;
+}
+
+legend{
+    font-weight: 300;
+    font-size: 30px;
+    color: white;
+}
+
+footer{
+    text-align: center;
+}
+
+.logo-black {
+    height: 2rem;
+}
+
+.derechos{
+    font-weight: 300;
+    font-size: 20px;
+    color:#707070 ;
+}
